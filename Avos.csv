@@ -23,7 +23,6 @@ Avocado,Quality,Ripeness,Cropped,Quality filed
 1021A,,1,,
 1021B,,,,
 1022,3,1,,
-1023A,,1,,
-1023B,,,,
-1024A,4,2,,
-1024B,4,3,,
+1023A,4,1,x,x
+1023B,4,3,x,x
+1024A,,2,,
